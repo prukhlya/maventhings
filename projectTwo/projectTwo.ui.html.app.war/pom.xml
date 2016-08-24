@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.projectTwo</groupId>
+    <artifactId>projectTwo</artifactId>
+    <version>1.0</version>
+    <relativePath>../projectTwo/pom.xml</relativePath>
+  </parent>
+
+  <artifactId>projectTwo.ui.html.app.war</artifactId>
+  <packaging>war</packaging>
+
+  <name>My Application HTML UI WAR</name>
+
+  <build>
+      <finalName>com.projectTwo.projectTwo.ui.html</finalName>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.projectTwo</groupId>
+      <artifactId>projectTwo.ui.html</artifactId>
+    </dependency>
+  </dependencies>
+</project>

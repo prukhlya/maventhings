@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1472059133710_1" label="projectTwo-root" name="projectTwo-root">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/projectTwo.server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/projectTwo.server.app.dev" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/projectTwo.server.app.war" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/projectTwo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/projectTwo.ui.html" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/projectTwo.shared" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/projectTwo.ui.html.app.dev" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/projectTwo.client" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/projectTwo.ui.html.app.war" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1472057234043_0" label="Window Working Set" name="Aggregate for window 1472057234043"/>
+</workingSetManager>

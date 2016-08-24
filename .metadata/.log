@@ -1,0 +1,50 @@
+!SESSION 2016-08-24 12:47:10.158 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\admin\Desktop\mavenWorkspace -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-08-24 12:47:16.024
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-08-24 13:18:53.804
+!MESSAGE Project projectTwo already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:23:58.018
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:23:58.026
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.equinox.p2.core 2 0 2016-08-24 13:25:07.846
+!MESSAGE Error parsing composite repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2016-08-24 13:25:07.846
+!MESSAGE Error in file:/C:/Users/admin/.p2/org.eclipse.equinox.p2.repository/cache/compositeContent571355601.xml at line 12, column 44: Missing required attribute in "child": location
+
+!ENTRY org.eclipse.equinox.p2.core 2 0 2016-08-24 13:27:20.435
+!MESSAGE Error parsing composite repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2016-08-24 13:27:20.435
+!MESSAGE Error in file:/C:/Users/admin/.p2/org.eclipse.equinox.p2.repository/cache/compositeArtifacts571355601.xml at line 13, column 44: Missing required attribute in "child": location
+!SESSION 2016-08-24 13:27:57.204 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data file:/C:/Users/admin/Desktop/mavenWorkspace/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-08-24 13:28:04.367
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-08-24 13:28:21.714
+!MESSAGE The Java indexing could not index C:/Users/admin/.m2/repository/com/ibm/icu/icu4j/2.6.1/icu4j-2.6.1.jar|com/ibm/icu/impl/data/LocaleElements_zh__PINYIN.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
